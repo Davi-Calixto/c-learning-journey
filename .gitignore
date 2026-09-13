@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Code::Blocks project files
+*.cbp
+*.depend
+*.layout
+
+# Build folders
+bin/
+obj/
+
+# Editor / Code Runner leftovers
+tempCodeRunnerFile*
+
+# OS junk
+.DS_Store
+Thumbs.db
