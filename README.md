@@ -8,10 +8,10 @@ Each exercise lives in its own folder with two files: the `.c` source code and a
 
 | Folder | What it covers |
 |---|---|
-| [`C - my first contact/`](./C%20-%20my%20first%20contact) | The very first exercises with C — variables, `scanf`/`printf`, `if/else`, basic arithmetic. |
+| [`C - My first contact/`](./C%20-%20My%20first%20contact) | The very first exercises with C — variables, `scanf`/`printf`, `if/else`, basic arithmetic. |
 | [`C - Loops/`](./C%20-%20Loops) | Problems focused on `for`, `while`, and `do-while` loops. |
 | [`C - Arrays/`](./C%20-%20Arrays) | Arrays, vectors, matrices, and functions that operate on them. |
-| [`C - some beecrowd exercises/`](./C%20-%20some%20beecrowd%20exercises) | Solved problems from the [Beecrowd](https://www.beecrowd.com.br/) online judge, numbered by their original problem ID. |
+| [`C - Some Beecrowd exercises/`](./C%20-%20Some%20Beecrowd%20exercises) | Solved problems from the [Beecrowd](https://www.beecrowd.com.br/) online judge, numbered by their original problem ID. |
 
 ## How each exercise is documented
 
