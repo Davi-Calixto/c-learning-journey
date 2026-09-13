@@ -31,9 +31,9 @@ Checklist de aprendizado
 
 ## Strings
 
-- [ ] Vetores de `char` e terminador nulo
-- [ ] Funções de `string.h` (`strlen`, `strcpy`, `strcmp`, etc.)
-- [ ] Manipulação manual de strings sem usar `string.h`
+- [x] Vetores de `char` e terminador nulo
+- [x] Funções de `string.h` (`strlen`, `strcpy`, `strcmp`, etc.)
+- [x] Manipulação manual de strings sem usar `string.h`
 
 ## Ponteiros
 
