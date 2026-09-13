@@ -1,6 +1,6 @@
 # Progresso em C
 
-Checklist de aprendizado — marca o `[ ]` como `[x]` conforme for avançando.
+Checklist de aprendizado 
 
 ## Fundamentos
 
